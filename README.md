@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Assignment 12 for CS648
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
